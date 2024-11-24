@@ -12,6 +12,6 @@ class Program
     static void Display(string message)
     {
         Console.WriteLine(message);
-        Console.WriteLine("Hello");
+        //Console.WriteLine("Hello");
     }
 }
